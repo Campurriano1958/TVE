@@ -33,12 +33,12 @@ http://z0o5ctph.tvclub.xyz/iptv/2LHUFFK9TACM2V/31827/index.m3u8
 http://streamingtv.vip:80/live/12MPremiumSep17/MM7j0GYqeD/315685.ts
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
 http://tv.nuevadomi.com:8080/Ne3ghcutSVbpy/02acce71d83f/8241
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
-http://streamingtv.vip:80/live/12MPremiumSep17/MM7j0GYqeD/110052.ts
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
-http://25102024ccwz.casamar.ru:8080/live/2B014598E0103434N/j0ItF51qQ/619.ts
 EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
-
+http://streamingtv.vip:80/live/12MPremiumSep17/MM7j0GYqeD/110052.ts
+EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
+http://25102024ccwz.casamar.ru:8080/live/2B014598E0103434N/j0ItF51qQ/619.ts
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
+http://anyofycop.top:8080/live/8021757492646532/326afbc61c7a/5734.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
 http://esgtabertapi.top:8080/es1421746289575258/8bf53a229df4/4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
