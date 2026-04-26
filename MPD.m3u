@@ -23,8 +23,6 @@ http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/815852.m3u8
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/815853.m3u8
 #EXTINF:-1 group-title="LIGA ACB" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg",ACB | Evento 08
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/815854.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO" tvg-logo="https://miro.medium.com/v2/resize:fit:1358/1*KsDFanTRUB4bB96xVKYTbA.jpeg",ALERTA AEROPUERTO
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/784187.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png",AXN FHD
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/791982.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://i.imgur.com/let75vk.png",AXN MOVIE FHD
@@ -153,42 +151,18 @@ http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/457986.m3u8
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/447109.m3u8
 #EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png",ES | IBERALIA
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/447108.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO" tvg-logo="https://res.cloudinary.com/dhp6f5wqz/image/upload/v1707879314/alerta_policia_jzdmim.png",ES: 091 Alerta Policia HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/446708.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Barbapapa 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397164.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Ben Y Holly 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397163.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WKlF1eRscUzvfM0fmAsRPnQ.png",ES: CANAL ANDALUCIA SUR Ê°áμˆ
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/540906.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",ES: CANAL COCINA HD
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/768819.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: CSI Las Vegas HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397193.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Cuarto Milenio HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397150.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png",ES: DECASA 4K
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/805459.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: El Caso HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397194.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: El Príncipe de Bel Air HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397198.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: El Show de los Looney Tunes 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397188.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png",ES: EURO SPORT FHD*CB
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/517560.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Expedientes X SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397201.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Futurama HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397173.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Garfield y amigos 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397187.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s",ES: GOL PLAY HD
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/21984.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s",ES: GOL PLAY SD
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55917.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Johnny Test 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397186.m3u8
 #EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",ES: LIGA CAMPEONES 10 HD
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/291448.m3u8
 #EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png",ES: LIGA CAMPEONES 5 HD
@@ -207,22 +181,6 @@ http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/190799.m3u8
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/805458.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",ES: NATIONAL GEOGRAPHIC WILD FHD
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/805457.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: NCIS Los Angeles HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397190.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: NCIS Navy Investigación Criminal) HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397192.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: NCIS Nueva Orleans HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397191.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Padre de Familia 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397174.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Políticas en Acción HD 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/446707.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Teen Titans Go! 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397184.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Xena La Princesa Guerrera 24H*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397200.m3u8
-#EXTINF:-1 group-title="24/7 CASTELLANO",ES: Zak Storm 24H
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/397185.m3u8
 #EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png",ESP l Somos *CB
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/343220.m3u8
 #EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://pbs.twimg.com/profile_images/2751840294/67013d8745e1704196024823792b7b14_400x400.png",ESP l XTRM HD
@@ -567,13 +525,7 @@ http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/995959.m3u8
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/995960.m3u8
 #EXTINF:-1 group-title="MOVISTAR +" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png",VAMOS FHD*2
 http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/767908.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://discusfish.xyz:25461/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg",Warner TV España FHD*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/498175.m3u8
-
-
-
-#EXTM3U
-# --- VIVIR ---
+#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://discusfish.xyz:25461/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg",Warner TV 
 #EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (HD) DAZN LALIGA
 http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25125.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (HD REPUESTO) DAZN LALIGA
