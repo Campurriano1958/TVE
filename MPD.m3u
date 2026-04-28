@@ -1,851 +1,297 @@
 
-
 #EXTM3U
 
-#EXTINF:-1 group-title="LIGA ACB" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg",ACB | Evento 01
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/811268.m3u8
-#EXTINF:-1 group-title="LIGA ACB" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg",ACB | Evento 02
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/811269.m3u8
-#EXTINF:-1 group-title="LIGA ACB" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg",ACB | Evento 03
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/811270.m3u8
-#EXTINF:-1 group-title="LIGA ACB" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg",ACB | evento 04
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/811271.m3u8
-#EXTINF:-1 group-title="LIGA ACB" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg",ACB | Evento 05
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/811272.m3u8
-#EXTINF:-1 group-title="LIGA ACB" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg",ACB | Evento 06
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/815852.m3u8
-#EXTINF:-1 group-title="LIGA ACB" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg",ACB | Evento 07
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/815853.m3u8
-#EXTINF:-1 group-title="LIGA ACB" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg",ACB | Evento 08
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/815854.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png",AXN FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/791982.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://i.imgur.com/let75vk.png",AXN MOVIE FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/781915.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://iteleflix.com/archivos/Logo-Betis-TV.png",BETIS TV
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/720537.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://imgur.com/XaiP3nJ.png",Bon Dia
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/371024.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s",CALLE 13 FHD*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/497661.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png",Canal Sur Andalucía
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/289666.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A",CASTILLA LA MANCHA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/372204.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png",CAZA Y PESCA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/379487.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png",CINE | SOMOS Ê°áµˆ"
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/838622.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.imgur.com/YE22cNP.png",D-ESP | EVENTOS Q
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/342778.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/1fLD6gp/La-Liga-TV-Bar.png",D-ESP | EVENTOS Q
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159053.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/1fLD6gp/La-Liga-TV-Bar.png",D-ESP | EVENTOS Q
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/190794.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png",D-ESP | EVENTOS Q
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/290261.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png",D-ESP | EVENTOS Q
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/190793.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/fCtkJ8w/La-Liga-TV2.png",D-ESP | LA LIGA 2 HD (KO)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159033.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/fCtkJ8w/La-Liga-TV2.png",D-ESP | LA LIGA 2 HD (TP)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159034.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/NFbq7SB/La-Liga-TV4.png",D-ESP | LA LIGA HD (KO) E.
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159036.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 2 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159047.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 2 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/815115.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 2 SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159045.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 3 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159048.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 3 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159049.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 5 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/290846.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 5 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/288936.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 5 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/288935.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 5SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279295.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 6 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/290857.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 7 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/290858.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA CAMPEONES 8 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/290859.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA DE CAMPEONES HD (KO).
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159042.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA DE CAMPEONES HD (KO)..
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159041.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA DE CAMPEONES HD (PJ)*
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/155844.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA DE CAMPEONES HD (TP)*
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55794.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA DE CAMPEONES HD (TP).
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159039.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA DE CAMPEONES SD (KO)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/31240.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",D-ESP | LIGA DE CAMPEONES SD (OR).
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159043.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png",D-ESP | M+ LA LIGA SD (KO).
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/31290.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png",D-ESP | M+ LA LIGA FHD (TP)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159027.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png",D-ESP | M+ LA LIGA FHD (TP).
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/136649.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/4MDcvVV/La-Liga-TV3.png",D-ESP | M+ LA LIGA FHD á´¹ H.265
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159035.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png",D-ESP | M+ LA LIGA HD (KO).
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159025.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/yVdJ0Cn/La-Liga-TV-Bar.png",D-ESP | M+ LA LIGA HD (KO)..
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159032.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/1fLD6gp/La-Liga-TV-Bar.png",D-ESP | M+ LA LIGA HD (KO)...
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159051.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/yVdJ0Cn/La-Liga-TV-Bar.png",D-ESP | M+ LA LIGA HD (TP)..
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159029.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XXyhbJ7/laligatv-1.png",D-ESP | M+ LA LIGA SD (PJ).
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/136650.m3u8
-#EXTINF:-1 grupo-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",D-ESP | MOVISTAR VAMOS HD*
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55926.m3u8
-#EXTINF:-1 group-title="MOTOR 24/7" tvg-logo="https://iili.io/HOGh9Ns.png",DAZN MOTO GP Carrera
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453050.m3u8
-#EXTINF:-1 group-title="24/7 MOTOR" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo.png",DEPORTES FORMULA 1 & GP**
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/768175.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/86a892c3e955eafb4f58bb24b5882113.png",DEU | BARCA TV
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67367.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/86a892c3e955eafb4f58bb24b5882113.png",DEU | BARCA TV HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/136665.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/b47640172359970201085542733765d0.png",DEU | EUROSPORT 2
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67438.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/0772d16ce1d33ab15bd56fae07156d7e.png",DEU | REAL MADRID TV
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/87078.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/cdb0e11e2a45ab1bdfda572ad5724916.png",DEU | SEVILLA FC TV
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/22074.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A",DREAMWORKS
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/396233.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://imgur.com/VBVu2bu.png",EITB1
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/371020.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://imgur.com/VBVu2bu.png",EITB2
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/371021.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSiW8l3ksQB27CyfaJab8_eCqh1_ll-Y2UbEgiA5SD8sFpNgh&s",EL TORO TV HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/515356.m3u8
-#EXTINF:-1 group-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png",ELLAS VAMOS FHD*2
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/767907.m3u8
-#EXTINF:-1 group-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png",ELLAS VAMOS HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/291869.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Energy.es.png",ENERGY OP 1
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/457984.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Energy.es.png",ENERGY OP 2
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/457985.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Energy.es.png",ENERGY OP 3
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/457986.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png",ES | CAZAVISION HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/447109.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png",ES | IBERALIA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/447108.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WKlF1eRscUzvfM0fmAsRPnQ.png",ES: CANAL ANDALUCIA SUR Ê°áμˆ
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/540906.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png",ES: CANAL COCINA HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/768819.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png",ES: DECASA 4K
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/805459.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png",ES: EURO SPORT FHD*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/517560.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s",ES: GOL PLAY HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/21984.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s",ES: GOL PLAY SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55917.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",ES: LIGA CAMPEONES 10 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/291448.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png",ES: LIGA CAMPEONES 5 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/768293.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",ES: LIGA CAMPEONES 9 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/291447.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png",ES: LIGA CAMPEONES HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/342776.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",ES: M. LIGA CAMPEONES 4 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/159050.m3u8
-#EXTINF:-1 group-title="M+ CAMPEONES" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png",ES: M. LIGA CAMPEONES 4 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/190799.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png",ES: NATIONAL GEOGRAPHIC HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/805458.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",ES: NATIONAL GEOGRAPHIC WILD FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/805457.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png",ESP l Somos *CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/343220.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://pbs.twimg.com/profile_images/2751840294/67013d8745e1704196024823792b7b14_400x400.png",ESP l XTRM HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/291626.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/32356bb9ff7b4c26ff7030716e870afa.png",ESP | A3SERIES HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67507.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/343e877633675f15afd1fc828ab924a2.png",ESP | AMC
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67564.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/343e877633675f15afd1fc828ab924a2.png",ESP | AMC CRIME
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/351195.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Antena3.es.png",ESP | ANTENA 3 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55885.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/ebe7530166c75e1c27565cbdecb71acc.png",ESP | ANTENA 3 SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/31906.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/AXNWhite.es.png",ESP | AXN WHITE HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55853.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://discusfish.xyz:25461/images/22b80be11495f4d907cf3d9c6d9ede0d.jpg",ESP | AXN*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67566.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/BeMad.es.png",ESP | BE MAD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55865.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/51f420bd5b29e19b2c90a69b085d7c08.png",ESP | BLAZE*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67513.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Boing.es.png",ESP | BOING
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55914.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/ce46bd7fa1c6d08afcbac80b2f760e22.png",ESP | CALLE 13
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55854.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/CanalCocina.es.png",ESP | CANAL COCINA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55867.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/841121fa27af9920103e23e0a62a3baa.png",ESP | CANAL ODISEA HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67518.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/af2b2290d2419ac058c801c47af14d90.png",ESP | CAZYPESCA HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67521.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/DisneyXD.es.png",ESP | CINE DISNEY 24/7
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55849.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/b68f17157d1cd26effee1afc366ded1a.png",ESP | CLAN TVE HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67522.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/5daae38532c46bb29b2f71930b4f2d82.png",ESP | COMEDY CENTRAL
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67571.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Cosmo.es.png",ESP | COSMO
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55855.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/488e788a513046c2ac746ccf3399cce5.png",ESP | CUATRO (X)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/31907.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png",ESP | DARK
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/196085.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/3903936ebcb3ba811345cbf4aa9312de.png",ESP | DECASA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67527.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/b59c032c79b7d1613a2e6814ca8a24c0.png",ESP | DISCOVERY CHANNEL
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55860.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://visualservice.xyz:80/images/e2b44c8908559da092950702153566ee.png",ESP | DISNEY
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/33494.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/ff177987fe3c3995620dc9ab951ad100.png",ESP | DISNEY JR
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55901.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/261937f4fa9e7e4fe254602783e90274.png",ESP | DIVINITY
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55891.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/888d0d03549e54793050d64651d143fa.png",ESP | DMAX
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67530.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/5d77467481f2fbce7adbf0b85169886b.png",ESP | EL TORO TV
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67515.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Energy.es.png",ESP | ENERGY
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55892.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png",ESP | EUROSPORT 1 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/266751.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png",ESP | EUROSPORT 1 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/537362.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz/images/b47640172359970201085542733765d0.png",ESP | EUROSPORT 1 SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/537361.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/b47640172359970201085542733765d0.png",ESP | EUROSPORT 2
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67533.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",ESP | EXTREMADURA TELEVISIÓN
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55870.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/750a409b263a679451a040f65734d886.png",ESP | FDF.
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55893.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Fox.es.png",ESP | FOX HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55898.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Historia.es.png",ESP | HISTORIA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55859.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Hollywood.es.png",ESP | HOLLYWOOD*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55896.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/922e86e4739e99bdd544c8a0dae3b64c.png",ESP | LA 2
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/31912.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png",ESP | LA 2*
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/769478.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/06bed58ad843f314df7ff757960fcb64.png",ESP | M SERIES XTRA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67541.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.imgur.com/0VDZ93U.png",ESP | M+ LA LIGA SD**
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/804225.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/71f1a4e6bb03d9b41c2164fb7879acdb.png",ESP | MEGA HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55890.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Mezzo.es.png",ESP | MEZZO LIVE
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55861.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://visualservice.xyz:80/nologo.png",ESP | MOVISTAR #0
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/164982.m3u8
-#EXTINF:-1 grupo-title="MOVISTAR+" tvg-logo="http://intelcodecs.hopto.org:8080/picon/logo.png",ESP | MOVISTAR ACCIÓN HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/164028.m3u8
-#EXTINF:-1 group-title="MOVISTAR+" tvg-logo="http://51.222.43.170:36995/images/ed1b47217efe6e2ac626e530b500e7e1.jpg",ESP | CINE MOVISTAR
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/190754.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://visualservice.xyz:80/images/28f81fd74546dfc1420dd1cb9b2bc964.png",ESP | MOVISTAR COMEDIA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/33493.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://visualservice:8000/images/7edfeaba5a4df33e78a0258ab95645f4.png",ESP | MOVISTAR DRAMA SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/33496.m3u8
-#EXTINF:-1 grupo-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",ESP | MOVISTAR ESTRENOS 2 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/298112.m3u8
-#EXTINF:-1 grupo-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",ESP | MOVISTAR ESTRENOS FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/164981.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://visualservice.xyz:80/images/8137a954c63852c27097e5afb708f13d.png",ESP | MOVISTAR SERIES 2
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/4911.m3u8
-#EXTINF:-1 grupo-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",ESP | MOVISTAR VAMOS FHD*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/165046.m3u8
-#EXTINF:-1 grupo-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png",ESP | MOVISTAR VAMOS SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/182436.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/64e8745649c2dc426bd4d3c932f35887.png",ESP | NAT GEO HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55905.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png",ESP | NAT GEO WILD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55858.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/9e86bfc75978cb98cb3e9cdbc5c63a43.png",ESP | NATIONAL GEOGRAPHIC
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67577.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Neox.es.png",ESP | NEOX
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55889.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/3145477a3f7136b2fb9d7bbcf8a83e7a.png",ESP | NICK JR
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55923.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png",ESP | NICKELODEON HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55850.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/b53daea2e4ba67233019cb88e8d0566c.png",ESP | NOVA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67484.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png",ESP | PARAMOUNT
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55857.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/b3b9bfbe8c823c7b268d685ad9fa3919.png",ESP | SERIESMANIA HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67555.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/7f601cdc04f348e922bda4c3391a7c94.png",ESP | SEXTA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/31908.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/9d121e3abb6ffebf888e1aed45a72c2f.png",ESP | SUNDANCE
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67556.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/61d7e5ff7c5d6f56f35e606148c25412.png",ESP | SYFY HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67581.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/61d7e5ff7c5d6f56f35e606148c25412.png",ESP | SYFY HD(A)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/31910.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/TCM.es.png",ESP | TCM HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55902.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",ESP | TCM HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/190776.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png",ESP | TELECINCO HD (A)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/68748.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png",ESP | TELECINCO HD (B)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/68747.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/2d2024ab719bece688ccd21240e45e2f.png",ESP | TELECINCO HD (C)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/74831.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/ea6024bd8d7ef7651f99bec25acf4013.png",ESP | TELEDEPORTE
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55925.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://lh3.googleusercontent.com/-5TYou-SVGrs/Xx2pLv3pVqI/AAAAAAAA3eU/83GKy9h3WbsnUo61hYeLg7bp19zab5UEACK8BGAsYHg/s0/2020-07-26.png",ESP | TELEMADRID
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/55869.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/2bfef0530e86875773ac557931601714.png",ESP | TNT
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/67562.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/3f1aec919860db046bfc3fa1a8862ef4.png",ESP | TVE INTERNACIONAL
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/42720.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png",ESP-L | ARAGÓN TV (720P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157784.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="http://visualservice.xyz:80/nologo.png",ESP-L | BETEVÃƒÂ© (1080P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157787.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",ESP-L | BLOOMBERG TV EMEA LIVE EVENT (720P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157789.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="http://visualservice.xyz:80/nologo.png",ESP-L | CANAL 2000 LA SOLANA (720P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157796.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://i.imgur.com/5KXkBbs.jpg",ESP-L | DÍEZ TV (1080P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157838.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="http://visualservice.xyz:80/nologo.png",ESP-L | LOGOS TV (1080P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157915.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png",ESP-L | LOGOS TV (720P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157916.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png",ESP-L | PEQUERADIO (720P) [NO 24/7]
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157937.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="http://visualservice.xyz:80/nologo.png",ESP-L | PUNT 3 VALL UIXÃƒÂ³ (1080P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157943.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320",ESP-L | RADIO TELEVISIÃƒÂ³N MELILLA (720P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/157945.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="http://visualservice.xyz:80/nologo.png",ESP-L | RTV VIDA (1080P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/158002.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/solidaria-tv.png",ESP-L | SOLIDARIA TV (720P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/158007.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg",ESP-L | TELERIBERA (720P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/158017.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://graph.facebook.com/8lajanda/picture?width=320&height=320",ESP-L | TUYA LA JANDA TELEVISIÃƒÂ³N (1080P)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/158027.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://i.imgur.com/KgbNv4G.png",ESP-L | TVG INFANTIL (720P)*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/158043.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png",ESPORT 3
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/762759.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png",EURO SPORTS 2 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/792704.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png",EUROSPORT 2 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/780881.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png",EUROSPORT 2 HD*
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/780882.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A",EUROSPORT 2 SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/792705.m3u8
-#EXTINF:-1 group-title="MOTOR 24/7" tvg-logo="https://iili.io/HMINpPS.png",Fórmula 1 Carrera*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453048.m3u8
-#EXTINF:-1 group-title="MOTOR 24/7" tvg-logo="https://iili.io/HMINpPS.png",Clasificación Fórmula 1
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453047.m3u8
-#EXTINF:-1 group-title="24/7 MOTOR" tvg-logo="https://iili.io/HMINpPS.png",Formula 1 TESTS
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453046.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A",GOL PLAY
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/456308.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png",LA 1 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/278027.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png",LA 1 SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/278028.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png",LA LIGA (DAZN LA LIGA 2)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/750538.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png",LA LIGA (DAZN LA LIGA)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/297295.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png",LA LIGA (M+ LA LIGA 2)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/298115.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png",LA LIGA (M+ LA LIGA)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/297296.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LA LIGA HYPERMOTION TV (A)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/535993.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LA LIGA HYPERMOTION TV (B)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/535994.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LA LIGA HYPERMOTION TV (C)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/535995.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÃ'A" tvg-logo="http://kongking.shop:80/images/pvCeJaf3ncx1lov72LMSdq1N9V4nkRSR8ulMSkP6XIWDDkm-TVo2GTu7kLkdqKQt9zJ832B8MNUIL4aWZ2n7Wc8eOkZca1cx4ChvsFSEt-o.png",LA LIGA TV BAR HD (ESP)
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/777453.m3u8
-#EXTINF:-1 group-title="ESPAÃ'A LOCAL" tvg-logo="https://imgur.com/W1UZyXH.png",La Otra
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/371013.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LIGA HYPERMOTION FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279512.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LIGA HYPERMOTION HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279511.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LIGA HYPERMOTION M2 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279515.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LIGA HYPERMOTION M2 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279513.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LIGA HYPERMOTION M2 SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279514.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LIGA HYPERMOTION M3 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279517.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LIGA HYPERMOTION M3 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279516.m3u8
-#EXTINF:-1 group-title="M+ LIGA HYPERMOTION" tvg-logo="https://pbs.twimg.com/profile_images/1865693878294052864/_dwTOXnJ_400x400.jpg",LIGA HYPERMOTION SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279510.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A",M+ Documentales
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494441.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A",M+ Indie*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494439.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A",M+ Originales*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494437.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://discusfish.xyz:25461/images/9b7c6a1043bd0c1615250b897b45ff81.png",M. Accion*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494425.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png",M. Cine*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494426.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png",M. Clasicos*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494430.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://discusfish.xyz:25461/images/fa088fe42f466888eb83dabf9e837aac.png",M. Comedia*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494427.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://discusfish.xyz:25461/images/d95e0b82d85984860dbbadd64df81adb.png",M. Dcine Espanyol*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494428.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://discusfish.xyz:25461/images/9781ccb297f50e85a9af8e31321fddd7.png",M. Drama*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494429.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="http://discusfish.xyz:25461/images/74f0a7fda137c90fc9ec400fe663e2d8.png",M. Originales*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494424.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png",M. Series*CB
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494431.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/71f1a4e6bb03d9b41c2164fb7879acdb.png",MEGA FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/447168.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://visualservice.xyz:80/images/71f1a4e6bb03d9b41c2164fb7879acdb.png",MEGA SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/447169.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png",MEZZO LIVE FULL HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/786107.m3u8
-#EXTINF:-1 group-title="MOTOR 24/7" tvg-logo="https://iili.io/HOGh9Ns.png",Clasificación Moto GP
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453049.m3u8
-#EXTINF:-1 group-title="24/7 MOTOR" tvg-logo="https://iili.io/HOGh9Ns.png",Pruebas de Moto GP.
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453051.m3u8
-#EXTINF:-1 group-title="MOTOR 24/7" tvg-logo="https://iili.io/HOGh9Ns.png",Moto2 y 3 Carrera
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453054.m3u8
-#EXTINF:-1 group-title="MOTOR 24/7" tvg-logo="https://iili.io/HOGh9Ns.png",Clasificación Moto2 y 3
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453053.m3u8
-#EXTINF:-1 group-title="24/7 MOTOR" tvg-logo="https://iili.io/HOGh9Ns.png",Moto2 y 3 Pruebas
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453052.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",MOVISTAR DEPORTES 1 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279523.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",MOVISTAR DEPORTES 1 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/136653.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",MOVISTAR DEPORTES 1 SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279521.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",MOVISTAR DEPORTES 2 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279525.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",MOVISTAR DEPORTES 2 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/292315.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",MOVISTAR DEPORTES 3 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279528.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",MOVISTAR DEPORTES 4 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/784408.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",MOVISTAR DEPORTES 4 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279531.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png",MOVISTAR DEPORTES 5 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/279534.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png",MOVISTAR GOLF 2 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494064.m3u8
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png",MOVISTAR GOLF HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/136656.m3u8
-#EXTINF:-1 group-title="LA LIGA ESPAÑA" tvg-logo="https://logo.iptveditor.com/movistarlaliga.png",Movistar La Liga
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/494438.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/2560px-Movistar_Plus%2B_2022_logo.svg.png",MOVISTAR PLUS
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/454343.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://eter-picons.one/picons/Toros_HD.png",MUNDO TORO TV
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/511753.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/364416.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png",ONE TORO FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/784097.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://i.imgur.com/nQH5LBq.png",ONE TORO HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/784096.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png",ONE TORO SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/795582.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://i.imgur.com/HGLxlSq.png",ONETORO FHD*
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/795583.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png",REAL MADRID FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/805112.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Classic Reto
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/273966.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray CLASSICA
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/786123.m3u8
-#EXTINF:-1 group-title="24/7 MOTOR" tvg-logo="https://iili.io/HviorQt.png",Superbikes Carrera
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453057.m3u8
-#EXTINF:-1 group-title="24/7 MOTOR" tvg-logo="https://iili.io/HviorQt.png",Superbikes Tests
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/453055.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png",TEN FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/797881.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png",TEN sd
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/797842.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://res.cloudinary.com/dhp6f5wqz/image/upload/v1707855711/Toros_tv_qsnktv.png",TOROS TV
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/196452.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://eter-picons.one/picons/Toros_HD.png",TOROS TV
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/203473.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="https://static.epg.best/es/Energy.es.png",TRECE
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/457987.m3u8
-#EXTINF:-1 grupo-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png",VAMOS 2 FHD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/995961.m3u8
-#EXTINF:-1 grupo-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png",VAMOS 2 HD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/995959.m3u8
-#EXTINF:-1 grupo-title="MOVISTAR+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png",VAMOS 2 SD
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/995960.m3u8
-#EXTINF:-1 group-title="MOVISTAR +" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png",VAMOS FHD*2
-http://galileatv.top:8080/live/espanistv/uNUP5XEj7SBB/767908.m3u8
-#EXTINF:-1 group-title="PREMIUM ESPAÃ'A" tvg-logo="http://discusfish.xyz:25461/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg",Warner TV 
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (HD) DAZN LALIGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25125.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (HD REPUESTO) DAZN LALIGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57344.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (HD REPUESTO2) DAZN LALIGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/63431.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (FHD) DAZN LALIGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/54668.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (FHD REPUESTO) DAZN LALIGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57359.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: DAZN LALIGA 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57476.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (HD) M+ LALIGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5758.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (HD REPUESTO) M+ LALIGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/54535.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (FHD) M+ LALIGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/54532.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (FHD REPUESTO) M+ LALIGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57362.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: M+ COPA DEL REY
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/58303.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (HD) DAZN F1
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57485.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (HD REPUESTO) DAZN F1
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57484.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (FHD) DAZN F1
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57486.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (FHD REPUESTO) DAZN F1
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57483.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: (HD) M+ LIGA DE CAMPEONES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57560.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57356.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: (FHD) M+ LIGA DE CAMPEONES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/54531.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57363.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: (SD) M+ LIGA DE CAMPEONES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57367.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: (HD) M+ LIGA DE CAMPEONES 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/58115.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: (FHD) M+ LIGA DE CAMPEONES 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5663.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: (HD) M+ LIGA DE CAMPEONES 3
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/58116.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: (FHD) M+ LIGA DE CAMPEONES 3
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5664.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 4
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5665.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 5
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5666.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 6
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5667.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 7
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5668.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 8
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5669.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 9
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5670.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 10
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5685.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 11
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5686.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 12
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5687.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | UEFA Liga de Campeones", ES: M+ LIGA DE CAMPEONES 13
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/29360.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: DAZN MOTOGP FHD
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/70905.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (FHD) DAZN 1
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5589.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (HD) DAZN 1
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57475.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: DAZN 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5590.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: DAZN 3
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5591.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: DAZN 4
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5592.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (FHD) M+ LALIGA TV BAR
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5661.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: LALIGA TV HYPERMOTION
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25128.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: LALIGA TV HYPERMOTION 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25953.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: LALIGA TV HYPERMOTION 3
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25954.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (FHD) M+ LALIGA TV 3
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5652.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: (FHD) M+ LALIGA TV 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5651.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | LALIGA", ES: M+ LALIGA TV 4
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57248.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (FHD) M+ DEPORTES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5643.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (HD) M+ DEPORTES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57481.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: M+ DEPORTES 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5639.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: M+ DEPORTES 3
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5640.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: M+ DEPORTES 4
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5641.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: M+ DEPORTES 5
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5681.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: M+ DEPORTES 6
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5682.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: M+ DEPORTES 7
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5683.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: EUROSPORT 1
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5607.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: EUROSPORT 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5608.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (FHD) M+ VAMOS
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5630.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: (FHD) M+ VAMOS 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/73273.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | TOROS", ES: (LÍNEA 1) ONETORO
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/55943.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | TOROS", ES: TOROLE TV
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/56009.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | TOROS", ES: (LÍNEA 2) ONETORO
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/56010.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: ESPN DEPORTES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5605.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: BARCA TV
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5560.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: REAL MADRID TV
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5729.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: BETIS TV
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57269.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: M+ ELLAS V
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/29333.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: TELEDEPORTE
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5735.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: GOL PLAY
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5617.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: M+ GOLF
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5649.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: TELECINCO
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5734.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: LA 1
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5622.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: LA 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5623.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: ANTENA 3
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5555.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: LA SEXTA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5625.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: CUATRO
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5588.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: FACTORÍA DE FICCIÓN
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5611.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: NOVA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5723.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: ENERGY
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5603.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: TRECE
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5741.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: 24 HORAS
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5550.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: AMC
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5553.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: AXN
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5557.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: AXN MOVIES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5558.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: BE MAD
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5561.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: AMC BREAK
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5564.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: CALLE 13
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5567.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: CANAL COCINA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5570.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: MOVISTAR PLUS+
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57285.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: CANAL DECASA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5571.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTROS", ES: CANAL SUR ANDALUCÍA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5576.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: CAZA Y PESCA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5578.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | NINOS", ES: CLAN TVE
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5580.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: COMEDY CENTRAL
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5584.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: COSMO
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5585.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: DESCUBRIMIENTO
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5594.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | NINOS", ES: BABY TV
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5559.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | NINOS", ES: BOING
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5565.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | NINOS", ES: CANAL DISNEY
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5596.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | NINOS", ES: DISNEY JUNIOR
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5597.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | NINOS", ES: DREAMWORKS
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5602.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | NINOS", ES: NICK JR
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5720.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | NINOS", ES: NICKELODEON
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5721.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: DIVINIDAD
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5599.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: DKISS
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5600.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: DMAX
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5601.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTROS", ES: CANAL EXTREMADURA SAT
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5609.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: CANAL ESTRELLA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5613.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: HISTORIA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5618.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: IBERALIA TV
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5621.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: M+ ACCIÃ“N
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5632.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: M+ COMEDIA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5636.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE & SERIES", ES: M+ CINE ESPAÑOL
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5633.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE & SERIES", ES: M+ CLÁSICOS
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5634.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: M+ DRAMA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5644.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE & SERIES", ES: M+ INDIE
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57282.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE & SERIES", ES: M+ HITS
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5675.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: HOLLYWOOD
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5619.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE & SERIES", ES: PARAMOUNT CHANNEL
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5727.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: SOMOS
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5730.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: WARNER TV
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5739.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: TCM
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5733.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: MEGA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5688.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: NATIONAL GEOGRAPHIC
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5714.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: NAT GEO WILD
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5715.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: NEOX
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5718.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: ODISEA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5724.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | NINOS", ES: ENFAMILIA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5726.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: SUNDANCE
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5731.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: SYFY
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5732.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTHERS", ES: TELEMADRID INT
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5736.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: TVE INTERNACIONAL
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5745.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE & SERIES", ES: XTRM
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/5751.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTHERS", ES: CNN
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25923.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: AMC BREAK
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25926.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: AMC CRIME
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25927.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: OSCURO
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25930.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: EL TORO TV
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25932.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTHERS", ES: EURONEWS
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25935.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ENTRETENIMIENTO", ES: M+ TIERRA MEDIA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25938.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTROS", ES: TELESUR
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25943.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTHERS", ES: UBEAT
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25951.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: ATRESERIES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/25952.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTHERS", ES: TELEONUBA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/29336.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTHERS", ES: STAR TVE
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/29338.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: CAZAVISIÃ“N
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/29358.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: M+ GOLF 2
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57256.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: M+ BUEN VIAJE
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57259.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: M+ ORIGINALES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57283.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: M+ DOCUMENTALES
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/57284.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DEPORTES", ES: RALLY TV
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/58325.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: CASTILLA LA MANCHA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/58329.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CINE Y SERIES", ES: M+ ESTRENOS
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/58330.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: IBERALIA 100% CAZA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/58332.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | CULTURA", ES: IBERALIA 100% PESCA
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/58333.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DAZN ACB", ES: ACB Evento 01
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/63433.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DAZN ACB", ES: ACB Evento 02
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/63434.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DAZN ACB", ES: ACB Evento 03
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/63435.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DAZN ACB", ES: ACB Evento 04
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/63436.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DAZN ACB", ES: ACB Evento 05
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/63437.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DAZN ACB", ES: ACB Evento 06
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/64831.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DAZN ACB", ES: ACB Evento 07
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/64832.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | DAZN ACB", ES: ACB Evento 08
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/64833.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | GENERAL", ES: TV Canaria
-http://so119.nehfkcpo.top:8080/live/8591770487475/e2b44366b27b/70904.m3u8
-#
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/236478
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/648
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="Generalistas", LA 2
+http://vodlat.top:8080/Nicolas/12345678/110044
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="Generalistas", LA 2
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/649
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="Generalistas", ANTENA 3
+http://vodlat.top:8080/Nicolas/12345678/110046
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="Generalistas", ANTENA 3
+http://mediatv.isppak.eu:8080/live/brooke1/1brooke/1845732.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="Generalistas", CUATRO
+http://vodlat.top:8080/Nicolas/12345678/110051
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="Generalistas", CUATRO
+http://mediatv.isppak.eu:8080/live/brooke1/1brooke/1845763.ts
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
+http://vodlat.top:8080/Nicolas/12345678/110053
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
+http://xpaneltv.com:8080/live/NestoFonse/65685462/224166.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
+http://vodlat.top:8080/Nicolas/12345678/110056
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
+http://mediatv.isppak.eu:8080/live/brooke1/1brooke/1845805.ts
+#EXTINF:-1tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/10/Canal_Sur_Andaluc%C3%ADa_SAT.png "tvg-id="Canal Andalucia"group-title="Generalistas",Canal Sur Andalucia
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/744
+#EXTINF:-1tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/10/Canal_Sur_Andaluc%C3%ADa_SAT.png "tvg-id="Canal Andalucia"group-title="Generalistas",Canal Sur Andalucia
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/744
+
+#EXTINF:-1 tvg-logo=" https://static.vecteezy.com/system/resources/previews/047/190/567/non_2x/foot-ball-and-flag-of-spain-logo-shoe-and-football-logo-design-template-with-spanish-flag-free-vector.jpg"tvg-id=" M+ LaLiga TV HD" group-title="LA LIGA", ⚽️M+La Liga⚽️
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/252
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/60235
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 2
+http://vodlat.top:8080/Nicolas/12345678/475825
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 2
+http://vodlat.top:8080/Nicolas/12345678/533455
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/243
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/60244
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN  LaLiga 2
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/128942
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title="LA LIGA", DAZN  LaLiga 2
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/60267
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title="LA LIGA", DAZN  LaLiga 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title="LA LIGA", DAZN  LaLiga 2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/246
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/60310
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 2
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/634
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 2
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/60314
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", M+ PLUS
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/236377
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", M+ PLUS
+http://vodlat.top:8080/Nicolas/12345678/375156
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", M+ PLUS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", M+ PLUS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ 2HD" group-title="M+Deportes", M+ PLUS 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ 2HD" group-title="M+Deportes", M+ PLUS 2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/286
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/25795
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTES 2
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/288
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTES 2
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/60332
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTES 2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTES 2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes 3 HD" group-title="M+Deportes",M+DEPORTES 3
+
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes 4 HD"group-title="M+Deportes",M+DEPORTES 4
+
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes 5 HD "group-title="M+Deportes ",M+DEPORTES 5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/632
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/60325
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="M+Deportes", Teledeporte 
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/726
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="M+Deportes", Teledeporte
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/726
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="M+Deportes", Gol Play 
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/633
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="M+Deportes", Gol Play 
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/633
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/247
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/128935
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1BAR
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/248
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/248
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4
+
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4
+
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU" tvg-id="Baloncesto " group-title=" Baloncesto  ", Dazn Baloncesto
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU" tvg-id="Baloncesto1 " group-title=" Baloncesto ", Dazn 1 Baloncesto
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU" tvg-id="Baloncesto2 " group-title=" Baloncesto ", Dazn 2 Baloncesto
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU" tvg-id="Baloncesto3 " group-title=" Baloncesto ", Dazn 3 Baloncesto
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpjXJT9KfXdLo8BfqiK1z16DeeCgU84fu-w&s" tvg-id="Baloncesto " group-title=" Baloncesto ", L. Endesa Baloncesto
+
+#EXTINF:-1tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png"tvg-id="Baloncesto " group-title=" Baloncesto ", L.Endesa Baloncesto
+
+#EXTINF:-1tvg-logo="   https://e7.pngegg.com/pngimages/275/7/png-clipart-fox-sports-2-television-channel-fox-sports-networks-streaming-media-fox-sport-television-blue.png"tvg-id="Baloncesto " group-title=" Baloncesto ", L.Endesa Baloncesto
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzsQVg-MJMT7_Pt1hO2rE9bi1_5eYpKfevw&s"tvg-id=" Baloncesto" group-title="Baloncesto", NBA Baloncesto
+
+#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENTOS"group-title="DAZN EVENTOS",DAZN EVENTOS 1
+
+#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENTOS"group-title="DAZN EVENTOS",DAZN EVENTOS 2
+
+#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENTOS"group-title="DAZN EVENTOS",DAZN EVENTOS 3
+
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz84rt4cqxAOfBf8eM7wXBZzDEVp6lkzLr7w&usqp=CAU " tvg-id="UFC"group-title="DAZN EVENTOS", UFC
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz84rt4cqxAOfBf8eM7wXBZzDEVp6lkzLr7w&usqp=CAU " tvg-id="UFC"group-title="DAZN EVENTOS", UFC
+
+#EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" MOTOR", RALLY TV
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/128955
+#EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" MOTOR", RALLY TV
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/128955
+#EXTINF:-1 tvg-logo=" https://www.lyngsat.com/logo/tv/cc/canal-motor-tv-no.png"group-title=" MOTOR",MOTOR TV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FÓRMULA 1", DAZN F1
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/56469
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FÓRMULA 1", DAZN F1
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/251
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FÓRMULA 1", DAZN F1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FÓRMULA 1", DAZN F1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FÓRMULA 1", DAZN F1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FÓRMULA 1", DAZN F1
+
+
+#EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es  "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
+
+#EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es  "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
+
+#EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
+
+#EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF EVENTO
+
+#EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF EVENTO
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQOyOsJq7EbVhV6JR-lzeKx0ZYwY5lI9iAQ&usqp=CAU" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/281
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQOyOsJq7EbVhV6JR-lzeKx0ZYwY5lI9iAQ&usqp=CAU" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/281
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153622" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 2
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/282
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153622" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 2
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/282
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153622" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 2
+
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML  CAMPEONES 
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/264
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML  CAMPEONES 
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/97196
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML  CAMPEONES 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML  CAMPEONES 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML  CAMPEONES 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML  CAMPEONES 
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML  CAMPEONES 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 2
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/129635
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 2
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/266
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", ML  CAMPEONES 3
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/267
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", ML  CAMPEONES 3
+http://voohocep.top:8080/VIP0168175381627029/89vx3679r5y8/267
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", ML CAMPEONES 3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", MLCAMPEONES 4
+http://voohocep.top:8080/VIP015171736011911292/c587c6c09100/268
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", MLCAMPEONES 4
+http://emmaultra.xyz:8080/994868335tv/k7658sw2/60293
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", ML CAMPEONES 4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", ML CAMPEONES 4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 5" group-title="LIGA DE CAMPEONES", ML CAMPEONES 5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 5" group-title="LIGA DE CAMPEONES", ML CAMPEONES 5
 
