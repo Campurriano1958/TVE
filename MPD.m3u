@@ -3,6 +3,9 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1
+http://voohocep.top:8080/live/VIP0156170394565844/8a66f5220ec5/648.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1
 http://emmaultra.xyz:8080/994868335tv/k7658sw2/236478
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1
