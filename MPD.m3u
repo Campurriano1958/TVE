@@ -26,6 +26,8 @@ http://mediatv.isppak.eu:8080/live/brooke1/1brooke/1845763.ts
 http://vodlat.top:8080/Nicolas/12345678/110053
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
 http://xpaneltv.com:8080/live/NestoFonse/65685462/224166.ts
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
+http://daleplay.vip:8080/live/b15ae1091/3a0b1291/315685.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
 http://vodlat.top:8080/Nicolas/12345678/110056
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
