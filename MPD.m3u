@@ -1,4 +1,4 @@
-EXTM3U
+XTM3U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
@@ -316,14 +316,14 @@ http://voohocep.top:8080/live/VIP0156170394565844/8a66f5220ec5/1310.ts
 #EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png  "tvg-id=" ESPN NL" group-title="ESPN NL",ESPN 6 NL
 
 
-#EXTINF:-1 tvg-logo="   "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO NL
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s  "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO NL
 http://voohocep.top:8080/live/VIP0156170394565844/8a66f5220ec5/128986.ts
-#EXTINF:-1 tvg-logo="   "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 2 NL
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s  "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 2 NL
 http://voohocep.top:8080/live/VIP0156170394565844/8a66f5220ec5/128987.ts
-#EXTINF:-1 tvg-logo="   "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 3 NL
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s  "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 3 NL
 http://voohocep.top:8080/live/VIP0156170394565844/8a66f5220ec5/128988.ts
-#EXTINF:-1 tvg-logo="   "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 4 NL
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s  "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 4 NL
 
-#EXTINF:-1 tvg-logo="   "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 5 NL
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s  "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 5 NL
 
-#EXTINF:-1 tvg-logo="   "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 6 NL
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s  "tvg-id=" ZIGGO NL" group-title="ESPN NL",ZIGGO 6 NL
