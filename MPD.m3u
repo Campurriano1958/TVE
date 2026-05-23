@@ -1,4 +1,4 @@
-TM3U
+M3U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
@@ -308,7 +308,7 @@ http://emmaultra.xyz:8080/994868335tv/k7658sw2/60293
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png   "tvg-id=" ESPN NL" group-title="ESPN NL",ESPN NL
 http://neospaxy.top:8080/6021737288533657/879cecdc021c/9871
 #EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png  "tvg-id=" ESPN NL" group-title="ESPN NL",ESPN 2 NL
-http://voohocep.top:8080/live/VIP0156170394565844/8a66f5220ec5/1309.ts
+http://neospaxy.top:8080/6021737288533657/879cecdc021c/9872
 #EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png  "tvg-id=" ESPN NL" group-title="ESPN NL",ESPN 3 NL
 http://voohocep.top:8080/live/VIP0156170394565844/8a66f5220ec5/1310.ts
 #EXTINF:-1 tvg-logo="  https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png "tvg-id=" ESPN NL" group-title="ESPN NL",ESPN 4 NL
