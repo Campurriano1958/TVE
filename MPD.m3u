@@ -3,7 +3,7 @@ M3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
 #EXTINF:-1tvg-logo="https://i.pinimg.com/736x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg"tvģ-id="mundial futbol"group-title="mundial de fútbol 2026", mundial1
-
+http://zonacero.lat:8080/2027/2027/369708
 #EXTINF:-1tvg-logo="https://i.pinimg.com/736x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg"tvģ-id="mundial futbol"group-title="mundial de fútbol 2026", mundial1
 http://zonacero.lat:8080/2027/2027/187374
 #EXTINF:-1tvg-logo="https://i.pinimg.com/736x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg"tvģ-id="mundial futbol"group-title="mundial de fútbol 2026", mundial1
