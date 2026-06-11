@@ -4,6 +4,9 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
+
+#EXTINF:-1tvg-logo="https://i.pinimg.com/736x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg"tvģ-id="mundial futbol"group-title="mundial de fútbol 2026", mundial EPG
+http://neosfpoo.top:8080/live/92171570506272/81739999267749/73771.ts
 #EXTINF:-1tvg-logo="https://i.pinimg.com/736x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg"tvģ-id="mundial futbol"group-title="mundial de fútbol 2026", mundial DAZN1
 http://vppyddncr.top:8080/live/VIP018771734496318282/1393f90cbdec/243.ts
 #EXTINF:-1tvg-logo="https://i.pinimg.com/736x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg"tvģ-id="mundial futbol"group-title="mundial de fútbol 2026", mundial DAZN2
