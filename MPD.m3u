@@ -273,7 +273,7 @@ http://31.43.191.125:8080/live/restream/restream/748.m3u8
 http://31.43.191.125:8080/live/restream/restream/750.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | ESTILO DE VIDA VIP", ES: STAR CHANNEL
 http://31.43.191.125:8080/live/restream/restream/752.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | TOP CANALES VIP", ES: MEGA
+#EXTINF:-1 tvg-id="" group-title="ES | TDT CANALES VIP", ES: MEGA
 http://31.43.191.125:8080/live/restream/restream/753.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | OTHER VIP", ES: NEOX
 http://31.43.191.125:8080/live/restream/restream/755.m3u8
@@ -311,7 +311,7 @@ http://31.43.191.125:8080/live/restream/restream/803.m3u8
 http://31.43.191.125:8080/live/restream/restream/827.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | MUSICA VIP", ES: MEZZO
 http://31.43.191.125:8080/live/restream/restream/34145.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | TOP CANALES VIP", ES: M+ BUEN VIAJE
+#EXTINF:-1 tvg-id="" group-title="ES | TDT CANALES VIP", ES: M+ BUEN VIAJE
 http://31.43.191.125:8080/live/restream/restream/60251.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | CULTURA VIP", ES: IBERALIA 100% CAZA
 http://31.43.191.125:8080/live/restream/restream/99473.m3u8
@@ -323,7 +323,7 @@ http://31.43.191.125:8080/live/restream/restream/128955.m3u8
 http://31.43.191.125:8080/live/restream/restream/129979.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | UFC", ES: UFC FIGHT PASS
 http://31.43.191.125:8080/live/restream/restream/129980.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | TOP CANALES VIP", ES: CASTILLA LA MANCHA
+#EXTINF:-1 tvg-id="" group-title="ES | TDT CANALES VIP", ES: CASTILLA LA MANCHA
 http://31.43.191.125:8080/live/restream/restream/132291.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | CINE & SERIES VIP", ES: M+ ESTRENOS
 http://31.43.191.125:8080/live/restream/restream/132309.m3u8
