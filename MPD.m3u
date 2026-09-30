@@ -716,7 +716,7 @@ http://neospaxy.top:8080/751667783802229039/81701340738166/5630
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte"group-title="M.Deportes",TELEDEPORTE UHD/4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte"group-title="M+Deportes",TELEDEPORTE UHD/4K
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="M+Deportes", Teledeporte 
 http://46.151.177.229:80/VFlJMjlZajQ3R3lBc1NLVDdxK0tNdVFicTU4VHZwM0hzK2ViT3gyaDFYU2FmTXl6R3RJNm9DbmQ0NUJaOFJLcg
