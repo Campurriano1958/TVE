@@ -144,24 +144,6 @@ http://31.43.191.125:8080/live/restream/restream/633.m3u8
 http://31.43.191.125:8080/live/restream/restream/285.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | DEPORTES VIP", ES: M+ GOLF 2
 http://31.43.191.125:8080/live/restream/restream/58727.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | INFANTILES VIP", ES: BABY TV
-http://31.43.191.125:8080/live/restream/restream/636.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | INFANTILES VIP", ES: BOING
-http://31.43.191.125:8080/live/restream/restream/637.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | INFANTILES VIP", ES: CLAN TVE
-http://31.43.191.125:8080/live/restream/restream/638.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | INFANTILES VIP", ES: ENFAMILIA
-http://31.43.191.125:8080/live/restream/restream/639.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | INFANTILES VIP", ES: DISNEY CHANNEL
-http://31.43.191.125:8080/live/restream/restream/640.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | INFANTILES VIP", ES: DISNEY JUNIOR
-http://31.43.191.125:8080/live/restream/restream/641.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | INFANTILES VIP", ES: DREAMWORKS
-http://31.43.191.125:8080/live/restream/restream/643.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | INFANTILES VIP", ES: NICK JR
-http://31.43.191.125:8080/live/restream/restream/644.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | INFANTILES VIP", ES: NICKELODEON
-http://31.43.191.125:8080/live/restream/restream/645.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | TDT CANALES VIP", ES: TELECINCO
 http://31.43.191.125:8080/live/restream/restream/647.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | TDT CANALES VIP", ES: LA 1
@@ -270,10 +252,7 @@ http://31.43.191.125:8080/live/restream/restream/746.m3u8
 http://31.43.191.125:8080/live/restream/restream/747.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | ESTILO DE VIDA VIP", ES: DKISS
 http://31.43.191.125:8080/live/restream/restream/748.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | OTHER VIP", ES: CANAL EXTREMADURA SAT
-http://31.43.191.125:8080/live/restream/restream/750.m3u8
-#EXTINF:-1 tvg-id="" group-title="ES | ESTILO DE VIDA VIP", ES: STAR CHANNEL
-http://31.43.191.125:8080/live/restream/restream/752.m3u8
+#EXTINF:-1 tvg-id="" group-title="ES | OTHER VIP", ES: CANAL EXTREMADURA 
 #EXTINF:-1 tvg-id="" group-title="ES | TDT CANALES VIP", ES: MEGA
 http://31.43.191.125:8080/live/restream/restream/753.m3u8
 #EXTINF:-1 tvg-id="" group-title="ES | OTHER VIP", ES: NEOX
