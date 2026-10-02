@@ -754,3 +754,286 @@ http://neosfpoo.top:8080/live/92171570506272/81739999267749/9908.ts
 http://neosfpoo.top:8080/live/92171570506272/81739999267749/57245.ts
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="España",########## España ##########
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/2532.ts
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="España",La 1 ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1086.ts
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="España",LA 1 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/4428.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="España",TVE LA 1 ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/126747.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="España",TVE LA 2 ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1085.ts
+#EXTINF:-1 tvg-id="Antena 3 ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="España",Antena 3 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1084.ts
+#EXTINF:-1 tvg-id="Antena 3 ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="España",Antena 3 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/4427.ts
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="España",Cuatro ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1083.ts
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="España",Cuatro FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/4426.ts
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="España",Telecinco ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1082.ts
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="España",Telecinco HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1077.ts
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="España",Telecinco FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/4425.ts
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="España",La Sexta ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1081.ts
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="España",La Sexta HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1076.ts
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="España",LA Sexta FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/4424.ts
+#EXTINF:-1 tvg-id="Canal Sur ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="España",Canal SUR ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1057.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-laliga-es.png?raw=true" group-title="Spain",DAZN LaLiga ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/124616.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="España",========== ES Entretenimiento ==========
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/19515.ts
+#EXTINF:-1 tvg-id="#0 ES" tvg-logo="http://tugapt.com/picons/0number.png" group-title="España",#0 ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1056.ts
+#EXTINF:-1 tvg-id="Número 0 ES" tvg-logo="http://tugapt.com/picons/0number.png" group-title="España",#0 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/6085.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="España",========== ES Deportes ==========
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/19516.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://tugapt.com/picons/vamos.png" group-title="España",#Vamos ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/24158.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://tugapt.com/picons/vamos.png" group-title="España",#Vamos HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/4405.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://tugapt.com/picons/vamos.png" group-title="España",#Vamos FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/24157.ts
+#EXTINF:-1 tvg-id="Movistar Deportes 1 ES" tvg-logo="http://tugapt.com/picons/movistardeportes1.png" group-title="España",Movistar Deportes 1 ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1064.ts
+#EXTINF:-1 tvg-id="Movistar Deportes 1 ES" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="España",Movistar Deportes 1 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/6071.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="España",beINSport HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1043.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="España",Movistar LaLiga ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/7428.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="Spain",Movistar LaLiga HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1042.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-1-es.png" group-title="Spain",Movistar LaLiga 1 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/97241.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-2-es.png" group-title="Spain",Movistar LaLiga 2 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/97240.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-3-es.png" group-title="Spain",Movistar LaLiga 3 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/97239.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-4-es.png" group-title="Spain",Movistar LaLiga 4 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/97238.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-5-es.png" group-title="Spain",Movistar LaLiga 5 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/97237.ts
+#EXTINF:-1 tvg-id="beIN LaLiga 1 ES" tvg-logo="https://static.epg.best/es/beINLaLigaMAX1.es.png" group-title="España",beIN LA Liga FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/4403.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="España",LaLiga TV Bar ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1062.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="España",LaLigaTV FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/6069.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://picaoplomo.com/wp-content/uploads/2020/01/logoSegundaDivision.png" group-title="Spain",LaLiga HYPERMOTION 1 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/110120.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/08/smartbank_color_blanco_agrupado_color2.png" group-title="Spain",LaLiga SmartBank Tv 2 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/110121.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",LaLiga SmartBank TV 3 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118876.ts
+#EXTINF:-1 tvg-id="Barca TV ES" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="España",Barca TV ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1038.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="España",Barca+ TV FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/91068.ts
+#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-logo="https://static.epg.best/es/RealMadridTV.es.png" group-title="Spain",Real Madrid TV ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1037.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="España",TVE 24h ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/6092.ts
+#EXTINF:-1 tvg-id="GOL ES" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="España",Gol TV ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1040.ts
+#EXTINF:-1 tvg-id="GOL ES" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="España",Gol TV HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/6066.ts
+#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Spain",EuroSport 1 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1036.ts
+#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Spain",Eurosport 1 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/6065.ts
+#EXTINF:-1 tvg-id="Eurosport 2 ES" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="Spain",Eurosport 2 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/6064.ts
+#EXTINF:-1 tvg-id="Movistar Formula 1 ES" tvg-logo="https://static.epg.best/es/MovistarFormula1.es.png" group-title="Spain",Dazn F1 FHD VIP ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/13960.ts
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-logo="http://tugapt.com/picons/movistargolf.png" group-title="España",Movistar Golf ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1061.ts
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-logo="http://tugapt.com/picons/movistargolf.png" group-title="España",Movistar Golf FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/4402.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",DAZN F1 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104475.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",M. DAZN F1 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104474.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",M. DAZN F1 SD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104473.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Eventos 01 FHD (DAZN Y PIES DE PÁGINA) ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104472.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Eventos 02 FHD (DAZN Y PIES DE PÁGINA) ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104471.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Eventos 03 FHD (DAZN Y PIES DE PÁGINA) ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104470.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Eventos 04 FHD (DAZN Y PIES DE PÁGINA) ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104469.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Eventos 08 FHD (DAZN Y PIES DE PÁGINA) ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104465.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Eventos 09 FHD (DAZN Y PIES DE PÁGINA) ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104464.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Eventos 10 FHD (DAZN Y PIES DE PÁGINA) ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104463.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Eventos 11 FHD (DAZN Y PIES DE PÁGINA) ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104462.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",eSport 3 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104457.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",eSport 3 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/104456.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="España",========== ES Cultura ==========
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/19517.ts
+#EXTINF:-1 tvg-id="Andalucia TV ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="España",Andalucia TV ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/1039.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-hd-es.png" group-title="España",tdp FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/75417.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-multideporte-es.png" group-title="Spain",MULTIDEPORTE ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79725.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="España",MOVISTAR VAMOS SD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79778.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="España",MOVISTAR VAMOS FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79779.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png" group-title="España",TELE MADRID FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79790.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png" group-title="España",TV3 HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/141252.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png" group-title="España",TV3 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79792.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-es.png" group-title="España",tdp ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79795.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="España",EUROSPORT 1 ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79800.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="España",EUROSPORT 2 ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79801.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="España",Movistar Liga Campeones ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79802.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vamos-es.png" group-title="España",MOVISTAR+ VAMOS HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79808.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/MovistarDeportes.es.png" group-title="Spain",Movistar Deportes FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79809.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="España",Movistar Liga Campeones FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79810.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Spain",ANTENA 3 ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79811.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/it/DAZN.it.png" group-title="España",DAZN ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/79814.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/dazn2-de.png" group-title="Spain",Dazn 2 FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/96351.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Canal Sur AndalucÃa ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118913.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Canal Sur AndalucÃa HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118912.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",GOL PLAY FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118904.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",GOL PLAY HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118903.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",MoviStar Plus+ FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118896.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",MoviStar Plus+ HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118895.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="España",MoviStar Plus+ ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118894.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="España",Teledeporte ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118886.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain",Teledeporte FHD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118885.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="España",Teledeporte HD ES
+#EXTGRP:España
+http://atifdudakgeneral.gentv.to:8080/live/bernardinosousa/adCTMwQDG5/118884.ts
