@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name=" LA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/640px-La_1_HD_TVE.png" group-title=" | TDT  ",La 1 
+EXTINF:-1 tvg-id="" tvg-name=" LA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/640px-La_1_HD_TVE.png" group-title=" | TDT  ",La 1 
 http://p2premium.club/live/3MPremJorgeP25/6LFShuJ43z/317165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/640px-La_1_HD_TVE.png" group-title=" | TDT  ",La 1 HD
 http://p2premium.club/live/3MPremJorgeP25/6LFShuJ43z/316180.m3u8
